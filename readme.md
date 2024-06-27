@@ -1,6 +1,5 @@
 EBAC_EXERCÍCIOS
 
-- Aula sobre GIT (início)
-- Clonando repositórios
-- Exercícios sobre Gherkin
-- Alterações de exercícios
+- Arquivos de exercícios sobre o Gherkin
+- Exercícios de Git
+- Exercícios de Cypress
